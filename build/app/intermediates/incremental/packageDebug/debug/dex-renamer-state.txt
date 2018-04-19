@@ -1,4 +1,4 @@
-#Thu Apr 19 23:31:33 CST 2018
+#Thu Apr 19 23:42:57 CST 2018
 base.0=/home/gru/flutterWorkspace/smallcook-app/build/app/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex

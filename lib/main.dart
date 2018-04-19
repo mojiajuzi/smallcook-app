@@ -89,7 +89,7 @@ Widget getListCategory(BuildContext context, List categoryList){
 }
 //获取请求得到的字符串
 Future<List> getCategory() async {
-  http.Response data = await http.get('http://10.0.2.2:8080');
+  http.Response data = await http.get('http://localhost:8080');
   if(data.statusCode == 200)
     return jsonDecode(data.body);
   return [];
